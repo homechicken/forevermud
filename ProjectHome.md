@@ -1,0 +1,3 @@
+ForeverMUD has been in development for, well, forever. More than 10 years by a single developer off and on. The goal is to develop a modern, object-oriented C++ MUD server with newer programming practices. It makes gratuitous use of smart pointers, STL, Boost libraries, and even a design pattern or two :)
+
+It uses YAML to store data, and has support for infinite-depth zones, colored ASCII maps, and shifting weather.
