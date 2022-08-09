@@ -1,0 +1,32 @@
+/home/jacob/Desktop/mud3/src/commands/get.cpp:484: Warning: The following parameters of Get::grammar1(Player::PlayerPointer player, syntaxData &data) are not documented:
+  parameter 'data'
+/home/jacob/Desktop/mud3/src/commands/get.cpp:497: Warning: The following parameters of Get::grammar2a(Player::PlayerPointer player, syntaxData &data) are not documented:
+  parameter 'data'
+/home/jacob/Desktop/mud3/src/commands/get.cpp:510: Warning: The following parameters of Get::grammar2b(Player::PlayerPointer player, syntaxData &data) are not documented:
+  parameter 'data'
+/home/jacob/Desktop/mud3/src/commands/get.cpp:523: Warning: The following parameters of Get::grammar2c(Player::PlayerPointer player, syntaxData &data) are not documented:
+  parameter 'data'
+/home/jacob/Desktop/mud3/src/commands/get.cpp:536: Warning: The following parameters of Get::grammar3(Player::PlayerPointer player, syntaxData &data) are not documented:
+  parameter 'data'
+/home/jacob/Desktop/mud3/src/commands/get.cpp:552: Warning: The following parameters of Get::grammar4a(Player::PlayerPointer player, syntaxData &data) are not documented:
+  parameter 'data'
+/home/jacob/Desktop/mud3/src/commands/get.cpp:566: Warning: The following parameters of Get::grammar4b(Player::PlayerPointer player, syntaxData &data) are not documented:
+  parameter 'data'
+/home/jacob/Desktop/mud3/src/commands/get.cpp:580: Warning: The following parameters of Get::grammar5a(Player::PlayerPointer player, syntaxData &data) are not documented:
+  parameter 'data'
+/home/jacob/Desktop/mud3/src/commands/get.cpp:594: Warning: The following parameters of Get::grammar5b(Player::PlayerPointer player, syntaxData &data) are not documented:
+  parameter 'data'
+/home/jacob/Desktop/mud3/src/commands/get.cpp:608: Warning: The following parameters of Get::grammar6(Player::PlayerPointer player, syntaxData &data) are not documented:
+  parameter 'data'
+/home/jacob/Desktop/mud3/src/runtimeConfig.cpp:404: Warning: argument 'the' of command @param is not found in the argument list of RuntimeConfig::getBoolValue(const std::string &key) const
+/home/jacob/Desktop/mud3/src/runtimeConfig.cpp:404: Warning: The following parameters of RuntimeConfig::getBoolValue(const std::string &key) const are not documented:
+  parameter 'key'
+/home/jacob/Desktop/mud3/src/runtimeConfig.cpp:389: Warning: argument 'the' of command @param is not found in the argument list of RuntimeConfig::getFloatValue(const std::string &key) const
+/home/jacob/Desktop/mud3/src/runtimeConfig.cpp:389: Warning: The following parameters of RuntimeConfig::getFloatValue(const std::string &key) const are not documented:
+  parameter 'key'
+/home/jacob/Desktop/mud3/src/runtimeConfig.cpp:373: Warning: argument 'the' of command @param is not found in the argument list of RuntimeConfig::getIntValue(const std::string &key) const
+/home/jacob/Desktop/mud3/src/runtimeConfig.cpp:373: Warning: The following parameters of RuntimeConfig::getIntValue(const std::string &key) const are not documented:
+  parameter 'key'
+/home/jacob/Desktop/mud3/src/runtimeConfig.cpp:358: Warning: argument 'the' of command @param is not found in the argument list of RuntimeConfig::getStringValue(const std::string &key) const
+/home/jacob/Desktop/mud3/src/runtimeConfig.cpp:358: Warning: The following parameters of RuntimeConfig::getStringValue(const std::string &key) const are not documented:
+  parameter 'key'

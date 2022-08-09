@@ -1,0 +1,19 @@
+chatChannel.cpp:			Player::PlayerPointer player = glob.playerDatabase.getPlayer(*pos);
+connection.cpp:		mConnectionState->mPlayer = glob.playerDatabase.getPlayer(getFd());
+connStateLogin.cpp:	Player::PlayerPointer p = glob.playerDatabase.getPlayer(command);
+eventDaemon.cpp:					player = glob.playerDatabase.getPlayer(pos->getTarget());
+messageDaemon.cpp:		player = glob.playerDatabase.getPlayer(message->getRcpt());
+messageDaemon.cpp:			player = glob.playerDatabase.getPlayer(message->getFrom());
+messageDaemon.cpp:			player = glob.playerDatabase.getPlayer(message->getRcpt());
+mudsql.cpp:int MudSQL::getPlayerIndex(const std::string &player_name) const {
+mudsql.cpp:		glob.log.error(boost::format("MudSQL::getPlayerIndex(): Query (%1%) error: %2%") % query->getQuery() % query->getError());
+mudsql.cpp:			glob.log.error("MudSQL::getPlayerIndex(): Player table size mismatch");
+mudsql.cpp:		glob.log.error(boost::format("MudSQL::getPlayerIndex(): Query (%1%) did not return expected data") % query->getQuery());
+player.cpp:	PlayerPointer fromPlayer = glob.playerDatabase.getPlayer(message->getFrom());
+playerDatabase.cpp:	Player::PlayerPointer player = getPlayer(name);
+playerDatabase.cpp:Player::PlayerPointer PlayerDatabase::getPlayer(const int fd) const {
+playerDatabase.cpp:Player::PlayerPointer PlayerDatabase::getPlayer(const std::string &name) const {
+playerDatabase.cpp:		Player::PlayerPointer player = getPlayer(message->getRcpt());
+playerDatabase.cpp:StringVector PlayerDatabase::getPlayerList(bool includeHost) const {
+thread_functions.cpp:				Player::PlayerPointer player = glob.playerDatabase.getPlayer(i);
+thread_functions.cpp:			Player::PlayerPointer player = glob.playerDatabase.getPlayer(i);

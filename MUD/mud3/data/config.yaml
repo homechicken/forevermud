@@ -1,0 +1,26 @@
+Strings:
+  LoginPrompt: "What is your name? "
+  DefaultPrompt: "[~bb0%r~res, %t: ~ny0%e~res]%n[%m]:>"
+  StartingZone: templeOfCreation
+  StartingRoom: entrance
+  LostAndFoundZone: templeOfCreation
+  LostAndFoundRoom: altar
+  BadCommandMessage: There is no such command/exit!
+  LogoutMessage: "~revBye!~res"
+  AdminRequired: You don't have sufficient permissions to use that command!
+Integers:
+  ShortestAllowedNameLength: 2
+  AutosaveTimer: 300
+  LifepointUnconscious: 0
+  LifepointDie: -10
+  StunDuration: 5
+  MinimumStableWindPeriod: 1000
+  DefaultClientScreenX: 80
+  DefaultClientScreenY: 24
+  ClientScreenFloorX: 40
+  ClientScreenFloorY: 12
+Floats:
+  StunPercentage: 0.2
+Booleans: ~
+Greeting: |
+  Welcome to ForeverMUD

@@ -1,0 +1,8 @@
+To compile:
+If you are using the MySQL system and your installation is in a non-standard directory, you may need to add
+-L/path/to/mysql/lib to the LINK variable in the top-level Makefile, as well as -I/path/to/mysql/include to
+the INCLUDE variable.
+
+Logins are handled in thread_functions.cpp by thread_process_func().
+
+If you use CMud (zMUD) as a client, you may want to disable the ~ special character under Preferences, Scripting, Special Characters

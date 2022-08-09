@@ -1,0 +1,29 @@
+      Physical:
+        name: milestone
+        object-type: MilestoneObject
+        length: 24
+        width: 12
+        height: 48
+        weight: 600
+        temperature: 50
+        insulation: 10
+        location:
+          type: RoomObject
+          name: 0x_0y
+          zone: world
+        nicknames:
+          - milestone
+          - stone
+        conditions:
+          - ~
+        brief-description: |
+          Milestone Prime
+          
+        verbose-description: |
+          This is Milestone Prime. It is chipped and weathered. The mossy windswept surface bears the record that this milestone represents (try ~b00read milestone~res).
+      Readable:
+        language: common
+        writable: false
+        pages:
+          - |
+            This is Milestone Prime. It was placed to celebrate the creation of the first room in this virtual world on 2007 April 21 13:41 PDT. It represents the singular point at which this MUD was truly born.

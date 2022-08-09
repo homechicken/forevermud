@@ -1,0 +1,66 @@
+---
+Physical:
+  name: fred
+  object-type: PlayerObject
+  length: 0
+  width: 0
+  height: 0
+  weight: 0
+  temperature: 65
+  insulation: 0
+  location:
+    type: RoomObject
+    name: entrance
+    zone: templeOfCreation
+  matter-state: solid
+  solid-to-liquid-temp: 400
+  liquid-to-gas-temp: 600
+  gas-to-plasma-temp: 1000
+  destroyed-if-not-solid: true
+  magnetic-strength: 0
+  nicknames:
+    - ~
+  conditions:
+    - ~
+Player:
+  password: xinzhe
+  prompt: "[~bb0%r~res, %t: ~ny0%e~res]%n[%m]:>"
+  permission-level: 0
+  aliases:
+    chat: channel chat
+    d: down
+    e: east
+    l: look
+    n: north
+    ne: northeast
+    nw: northwest
+    prompt: config prompt
+    s: south
+    se: southeast
+    sw: southwest
+    u: up
+    w: west
+Living:
+  life: 90
+  max-life: 90
+  sex: 0
+  temp-damage-low: 50
+  temp-comfort-low: 65
+  temp-comfort-high: 75
+  temp-damage-high: 110
+Connection:
+  x-resolution: 80
+  y-resolution: 24
+  colorblind: false
+Sentient:
+  strength: 1
+  intelligence: 1
+  wisdom: 1
+  dexterity: 1
+  constitution: 1
+  charisma: 1
+  languages: ~
+Container:
+  capacity: 5
+  contents:
+    - ~

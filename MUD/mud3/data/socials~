@@ -1,0 +1,1168 @@
+ack
+You acknowledge nothing in particular.
+%ME% acknowledges nothing in particular.
+You acknowledge %TARGET%;
+%ME% acknowledges you.
+%ME% acknowledges %TARGET%.
+#
+agree
+You agree with everything.
+%ME% agrees with everything.
+You agree with %TARGET%.
+%ME% agrees with you.
+%ME% agrees with %TARGET%.
+#
+ahem
+You politely clear your throat.
+%ME% politely clears %POSSESSIVE% throat.
+You politely clear your throat, getting %TARGET%'s attention.
+%ME% politely clears %POSSESSIVE% throat, getting your attention.
+%ME% politely clears %POSSESSIVE% throat, getting %TARGET%'s attention.
+#
+apologize
+You apologize for your actions.
+%ME% apologizes for %POSSESSIVE% actions.
+You apologize to %TARGET%.
+%ME% apologizes to you.
+%ME% apologizes to %TARGET;
+#
+arrr
+You arrr in your best imitation of a pirate.
+%ME% arrrs in %POSSESSIVE% best imitation of a pirate.
+You arrr at %TARGET%.
+%ME% arrrs at you.
+%ME% arrrs at %TARGET%.
+#
+babble
+You babble like an idiot.
+%ME% babbles like an idiot.
+You babble at %TARGET% incoherently.
+%ME% babbles at you incoherently.
+%ME% babbles at %TARGET% incoherently.
+#
+barf
+You barf all over yourself.
+%ME% barfs all over %REFLEXIVE%.
+You barf all over %TARGET%.
+%ME% barfs all over you.
+%ME% barfs all over %TARGET%.
+#
+beam
+You beam like a ray of sunshine.
+%ME% beams like a ray of sunshine.
+You beam at %TARGET% brightly.
+%ME% beams at you brightly.
+%ME% beams at %TARGET% brightly.
+#
+beckon
+You beckon to yourself.
+%ME% beckons to %REFLEXIVE%.
+You beckon to %TARGET%.
+%ME% beckons to you.
+%ME% beckons to %TARGET%.
+#
+beg
+You beg like a hungry dog.
+%ME% begs like a hungry dog.
+You beg %TARGET%.
+%ME% begs you.
+%ME% begs %TARGET%
+#
+blink
+You blink your eyes.
+%ME% blinks %POSSESSIVE% eyes.
+You blink your eyes at %TARGET%.
+%ME% blinks %POSSESSIVE% eyes at you.
+%ME% blinks %POSSESSIVE% eyes at %TARGET%.
+#
+blush
+You blush like a demure schoolgirl.
+%ME% blushes like a demure schoolgirl.
+You blush at %TARGET% hotly.
+%ME% blushes at you hotly.
+%ME% blushes at %TARGET% hotly.
+#
+boggle
+You boggle your eyes in surprise.
+%ME% boggles %POSSESSIVE% eyes in surprise.
+You boggle your eyes at %TARGET%.
+%ME% boggles %POSSESSIVE% eyes at you.
+%ME% boggles %POSSESSIVE% eyes at %TARGET%.
+#
+bonk
+You bonk yourself on the head.
+%ME% bonks %REFLEXIVE% on the head.
+You bonk %TARGET% on the head.
+%ME% bonks you on the head.
+%ME% bonks %TARGET% on the head.
+#
+bounce
+You bounce around. A lot.
+%ME% bounces around. A lot.
+You bounce on %TARGET%.
+%ME% bounces on you.
+%ME% bounces on %TARGET%.
+#
+bow
+You bow.
+%ME% bows.
+You bow to %TARGET%.
+%ME% bows to you.
+%ME% bows to %TARGET%.
+#
+brb
+You let everyone know you'll be right back.
+%ME% lets everyone know %SUBJECTIVE%'ll be right back.
+You let %TARGET% know you'll be right back.
+%ME% lets you know that %SUBJECTIVE%'ll be right back.
+%ME% lets %TARGET% know that %SUBJECTIVE%'ll be right back.
+#
+breakdance
+You bust a move.
+%ME% starts breakdancing. About 90% breaking, 10% dancing.
+You bust a move in front of %TARGET%.
+%ME% breakdances in front of you.
+%ME% breakdances in front of %TARGET%.
+#
+burp
+You burp loudly.
+%ME% burps loudly.
+You burp %TARGET%'s name loudly.
+%ME% burps your name loudly.
+%ME% burps %TARGET%'s name loudly.
+#
+cackle
+You cackle like a witch on crack.
+%ME% cackles like a witch on crack.
+You cackle at %TARGET% maniacally.
+%ME% cackles at you maniacally.
+%ME% cackles at %TARGET% maniacally.
+#
+caress
+You caress yourself gently.
+%ME% caresses %REFLEXIVE% gently.
+You caress %TARGET% gently.
+%ME% caresses you gently.
+%ME% caresses %TARGET% gently.
+#
+cartwheel
+You do a cartwheel.
+%ME% does a cartwheel.
+You do a cartwheel in front of %TARGET% but fall over. Ouch.
+%ME% does a cartwheen in front of you but falls over. Ouch.
+%ME% does a cartwheel in front of %TARGET% but falls over. Ouch.
+#
+cheer
+You cheer like there's no tomorrow.
+%ME% cheers like there's no tomorrow.
+You cheer %TARGET% on.
+%ME% cheers you on.
+%ME% cheers %TARGET% on.
+#
+chortle
+You chortle like a kid that just pulled a good prank.
+%ME% chortles like a kid that just pulled a good prank.
+You chortle at %TARGET.
+%ME% chortles at you.
+%ME% chortles at %TARGET%.
+#
+chuckle
+You chuckle.
+%ME% chuckles.
+You chuckle at %TARGET%.
+%ME% chuckles at you.
+%ME% chuckles at %TARGET%.
+#
+clap
+You clap your hands.
+%ME% claps %POSSESSIVE% hands.
+You clap for %TARGET%.
+%ME% claps for you.
+%ME% claps for %TARGET%.
+#
+comfort
+You feel comforted.
+%ME% feels comforted.
+You comfort %TARGET% empathetically.
+%ME% comforts you empathetically.
+%ME% comforts %TARGET% empathetically.
+#
+confused
+You look confused. WTF?
+%ME% looks confused.
+You look at %TARGET% in a confused way.
+%ME% looks at you in a confused way.
+%ME% looks at %TARGET% in a confused way.
+#
+cookies
+You toss your cookies all over everything.
+%ME% tosses %POSSESSIVE% cookies all over everything.
+You toss your cookies all over %TARGET%.
+%ME% tosses %POSSESSIVE% cookies all over you.
+%ME% tosses %POSSESSIVE% cookies all over %TARGET%.
+#
+cough
+You cough.
+%ME% coughs.
+You cough on %TARGET%. Ewww.
+%ME% coughs on you. Ewww.
+%ME% coughs on %TARGET%. Ewww.
+#
+cower
+You cower in abject fear.
+%ME% cowers in abject fear.
+You cower from %TARGET%'s wrath.
+%ME% cowers from your wrath.
+%ME% cowers from %TARGET%'s wrath.
+#
+cringe
+You cringe like a beaten dog.
+%ME% cringes like a beaten dog.
+You cringe away from %TARGET%.
+%ME% cringes away from you.
+%ME% cringes away from %TARGET%.
+#
+cry
+You cry a river. Nobody cares.
+%ME% cries a river. Nobody cares.
+You cry on %TARGET%'s shoulder.
+%ME% cries on your shoulder.
+%ME% cries on %TARGET%'s shoulder.
+#
+cuddle
+You cuddle up to nobody.
+%ME% cuddles up to nobody.
+You cuddle up to %TARGET%.
+%ME% cuddles up to you.
+%ME% cuddles up to %TARGET%.
+#
+curl
+You curl up with a nice book.
+%ME% curls up with a nice book.
+You curl up at the feet of %TARGET%.
+%ME% curls up at your feet.
+%ME% curls up at the feet of %TARGET%.
+#
+curse
+You curse. Colorfully.
+%ME% curses. Colorfully.
+You curse at %TARGET% colorfully.
+%ME% curses at you colorfully.
+%ME% curses at %TARGET% colorfully.
+#
+curtsy
+You curtsy in your nice dress.
+%ME% curtsies in %POSSESSIVE% nice dress.
+You curtsy to %TARGET% politely.
+%ME% curtsies to you politely.
+%ME% curtsies to %TARGET% politely.
+#
+dance
+You dance around like a fairy princess. Nice.
+%ME% dances around like a fairy princess. Nice.
+You grab %TARGET% for a quick dance.
+%ME% grabs you for a quick dance.
+%ME% grabs %TARGET% for a quick dance.
+#
+daydream
+You space out and daydream for a while.
+%ME% spaces out and daydreams for a while.
+You daydream about %TARGET%. Oh yeah.
+%ME% daydreams about you. It looks naughty.
+%ME% daydreams about %TARGET%. It looks naughty.
+#
+doh
+You D'oh! like Homer.
+%ME% lets out a "D'oh!" in a good impression of Homer.
+You point at %TARGET% and say "D'oh!"
+%ME% points at you and says "D'oh!"
+%ME% points at %TARGET% and says "D'oh!"
+#
+drool
+You drool like a baby at dinner. Or any other time.
+%ME% drools like a baby at dinner. Or any other time.
+You drool on %TARGET%. Gross.
+%ME% drools on you. Gross.
+%ME% drools on %TARGET%. Gross.
+#
+embrace
+You embrace yourself passionately.
+%ME% embraces %REFLEXIVE% passionately.
+You embrace %TARGET% passionately.
+%ME% embraces you passionately.
+%ME% embraces %TARGET% passionately.
+#
+eyebrow
+You raise an eyebrow.
+%ME% raises %POSSESSIVE% eyebrow.
+You raise an eyebrow at %TARGET%.
+%ME% raises an eyebrow at you.
+%ME% raises and eyebrow at %TARGET%.
+#
+faint
+You faint dead away.
+%ME% faints dead away.
+You faint into %TARGET%'s arms.
+%ME% faints into your arms.
+%ME% faints into %TARGET%'s arms.
+#
+fart
+You fart. Nasty habit, that.
+%ME% farts. Nasty habit, that.
+You fart on %TARGET%. Ick.
+%ME% farts on you. Ick.
+%ME% farts on %TARGET%. Ick.
+#
+flex
+You flex in front of a mirror. Sweet.
+%ME% flexes in front of a mirror. Showoff.
+You flex in front of %TARGET%.
+%ME% flexes in front of you.
+%ME% flexes in front of %TARGET%.
+#
+flip
+You do a flip, nearly landing on your head.
+%ME% does a flip, nearly landing on %POSSESSIVE% head.
+You flip out and kill %TARGET% with Real Ultimate Power. Awesome!
+%ME% flips out and kills you with Real Ultimate Power. Awesome!
+%ME% flips out and kills %TARGET% with Real Ultimate Power. Awesome!
+#
+flirt
+You flirt with danger.
+%ME% flirts with danger.
+You flirt with %TARGET% provocatively.
+%ME% flirts with you provocatively.
+%ME% flirts with %TARGET% provocatively.
+#
+fondle
+You fondle yourself. In public.
+%ME% fondles %REFLEXIVE%. In public.
+You fondle %TARGET% lecherously.
+%ME% fondles you lecherously.
+%ME% fondles %TARGET% lecherously.
+#
+french
+You french yourself. Somehow.
+%ME% frenches %REFLEXIVE%. Somehow.
+You french %TARGET%, deep and wet.
+%ME% frenches you, deep and wet.
+%ME% frenches %TARGET%, deep and wet.
+#
+frown
+You frown. Boo hoo.
+%ME% frowns. So sad.
+You frown at %TARGET% sadly.
+%ME% frowns at you sadly.
+%ME% frowns at %TARGET% sadly.
+#
+gasp
+You gasp!
+%ME% gasps!
+You gasp at %TARGET%.
+%ME% gasps at you.
+%ME% gasps at %TARGET%.
+#
+giggle
+You giggle uncontrollably.
+%ME% giggles uncontrollably.
+You giggle at %TARGET%.
+%ME% giggles at you.
+%ME% giggles at %TARGET%.
+#
+glare
+You glare menacingly.
+%ME% glares menacingly.
+You glare at %TARGET% menacingly.
+%ME% glares at you menacingly. Watch out for %OBJECTIVE%.
+%ME% glares at %TARGET% menacingly.
+#
+grab
+You grab yourself rudely.
+%ME% grabs %REFLEXIVE% rudely.
+You grab at %TARGET%.
+%ME% grabs at you.
+%ME% grabs at %TARGET%.
+#
+grin
+You grin.
+%ME% grins.
+You grin at %TARGET%.
+%ME% grins at you.
+%ME% grins at %TARGET%.
+#
+groan
+You groan loudly.
+%ME% groans loudly.
+You groan at %TARGET% loudly.
+%ME% groans at you loudly.
+%ME% groans at %TARGET% loudly.
+#
+grope
+You grope around looking for something.
+%ME% gropes around looking for something.
+You grope %TARGET% unhurriedly.
+%ME% gropes you unhurriedly.
+%ME% gropes %TARGET% unhurriedly.
+#
+growl
+You growl like a rabid beast.
+%ME% growls like a rabid beast.
+You growl at %TARGET% in warning.
+%ME% growls at you in warning.
+%ME% growls at %TARGET% in warning.
+#
+grumble
+You grumble about nothing in particular.
+%ME% grumbles about nothing in particular.
+You grumble to %TARGET% about something.
+%ME% grumbles to you about something.
+%ME% grumbles to %TARGET% about something.
+#
+grunt
+You grunt.
+%ME% grunts.
+You grunt at %TARGET%.
+%ME% grunts at you.
+%ME% grunts at %TARGET%.
+#
+hack
+You hack up a lung.
+%ME% hacks up a lung.
+You hack up a lung on %TARGET%.
+%ME% hacks up a lung on you.
+%ME% hacks up a lung on %TARGET%.
+#
+headlock
+You try to get yourself in a headlock.
+%ME% tries to get %REFLEXIVE% in a headlock.
+You get %TARGET% in a headlock.
+%ME% gets you in a headlock.
+%ME% gets %TARGET% in a headlock.
+#
+hiccup
+You hiccup. Hic!
+%ME% hiccups. Hic!
+You hiccup while watching %TARGET%.
+%ME% hiccups while watching you.
+%ME% hiccups while watching %TARGET%.
+#
+highfive
+You highfive yourself. Yay!
+%ME% highfives %REFLEXIVE%. Yay!
+You highfive %TARGET%.
+%ME% highfives you. Yay!
+%ME% highfives %TARGET%. Yay!
+#
+hiss
+You hiss like a snake in a frying pan.
+%ME% hisses like a snake in a frying pan.
+You hiss at %TARGET%.
+%ME% hisses at you.
+%ME% hisses at %TARGET%.
+#
+hmm
+You hmm.
+%ME% hmms.
+You hmm at %TARGET%.
+%ME% hmms at you.
+%ME% hmms at %TARGET%.
+#
+hop
+You hop like a bunny. On speed.
+%ME% hops like a bunny. On speed.
+You hop on over to %TARGET%.
+%ME% hops on over to you.
+%ME% hops on over to %TARGET%.
+#
+hug
+You console yourself with a big hug.
+%ME% consoles %REFLEXIVE% with a big hug.
+You hug %TARGET% close.
+%ME% hugs you close.
+%ME% hugs %TARGET% close.
+#
+hum
+You hum a tune nobody knows.
+%ME% hums a tune nobody knows.
+You hum for %TARGET%.
+%ME% hums for you.
+%ME% hums for %TARGET%.
+#
+kiss
+You make a kissy face.
+%ME% makes a kissy face.
+You plant a soft kiss on %TARGET%.
+%ME% plants a soft kiss on you.
+%ME% plants a soft kiss on %TARGET%.
+#
+kneel
+You kneel down.
+%ME% kneels down.
+You kneel to %TARGET%.
+%ME% kneels to you.
+%ME% kneels to %TARGET%.
+#
+kowtow
+You kowtow in humble obeisance.
+%ME% kowtows in humble obeisance.
+You kowtow to %TARGET% obediently.
+%ME% kowtows to you obediently.
+%ME% kowtows to %TARGET% obediently.
+#
+lag
+You complain about lag. You wuss.
+%ME% is compaining about lag. The wuss.
+You point at %TARGET% and laugh at %POSSESSIVE% lag.
+%ME% points at you and laughs about your lag.
+%ME% points at %TARGET% and laughs about %POSSESSIVE% lag.
+#
+laugh
+You laugh hysterically.
+%ME% laughs hysterically.
+You laugh at %TARGET% hysterically.
+%ME% laughs at you hysterically.
+%ME% laughs at %TARGET% hysterically.
+#
+leer
+You leer at nothing in particular.
+%ME% leers at nothing in particular.
+You leer at %TARGET% appreciatively.
+%ME% leers at you appreciatively.
+%ME% leers at %TARGET% appreciatively.
+#
+lick
+You lick your lips expectantly.
+%ME% licks %POSSESSIVE% lips expectantly.
+You lick %TARGET%.
+%ME% licks you.
+%ME% licks %TARGET%.
+#
+meow
+You meow like a cat. Here kitty kitty.
+%ME% meows like a cat. Here kitty kitty.
+You meow at %TARGET%.
+%ME% meows at you.
+%ME% meows at %TARGET%.
+#
+miss
+You feel like you're missing something.
+%ME% feels like %SUBJECTIVE%'s missing something
+You really missed %TARGET%.
+%ME% has really missed you.
+%ME% has really missed %TARGET%.
+#
+moo
+You moo like a cow that needs milking.
+%ME% moos like a cow that needs milking.
+You moo at %TARGET% bovinously.
+%ME% moos at you bovinously.
+%ME% moos at %TARGET% bovinously.
+#
+moon
+You drop your pants and show a full moon.
+%ME% drops %POSSESSIVE% pants and shows a full moon.
+You show %TARGET% your best side.
+%ME% shows you %POSSESSIVE% worst side. The back one. You got mooned!
+%ME% shows %TARGET% %POSSESSIVE% worst side. The back one.
+#
+mutter
+You mutter under your breath.
+%ME% mutters under %POSSESSIVE% breath.
+You mutter something about %TARGET% under your breath.
+%ME% mutters something about you under %POSSESSIVE% breath.
+%ME% mutters something about %TARGET% under %POSSESSIVE% breath.
+#
+nibble
+You nibble on something.
+%ME% nibbles on something.
+You nibble on %TARGET%'s ear.
+%ME% nibbles on your ear.
+%ME% nibbles on %TARGET%'s ear.
+#
+nod
+You nod.
+%ME% nods.
+You nod at %TARGET%.
+%ME% nods at you.
+%ME% nods at %TARGET%
+#
+nudge
+You give yourself a nudge.
+%ME% gives %REFLEXIVE% a nudge.
+You nudge %TARGET%.
+%ME% nudges you.
+%ME% nudges %TARGET%.
+#
+nuzzle
+You nuzzle up in a blanket.
+%ME% nuzzles up in a blanket.
+You nuzzle up to %TARGET%.
+%ME% nuzzles up to you.
+%ME% nuzzles up to %TARGET%.
+#
+ogle
+You ogle at everything like a farm boy visiting the city.
+%ME% ogles at everything like a farm boy visiting the city.
+You ogle %TARGET% lasciviously.
+%ME% ogles You lasciviously.
+%ME% ogles %TARGET% lasciviously.
+#
+pant
+You pant like a dog.
+%ME% pants like a dog.
+You pant at %TARGET% like a dog.
+%ME% pants at you like a dog.
+%ME% pants at %TARGET% like a dog.
+#
+pat
+You pat yourself on the back. Good job!
+%ME% pats %REFLEXIVE% on the back. Good job!
+You pat %TARGET% on the back.
+%ME% pats you on the back.
+%ME% pats %TARGET% on the back.
+#
+peer
+You peer around in the gloom.
+%ME% peers around in the gloom.
+You peer at %TARGET% suspiciously.
+%ME% peers at you suspiciosly.
+%ME% peers at %TARGET% suspiciously.
+#
+pet
+You pet yourself. We won't say where.
+%ME% pets %REFLEXIVE%. You don't want to know where.
+You pet %TARGET% on the head.
+%ME% pets you on the head.
+%ME% pets %TARGET% on the head.
+#
+pimp
+You try to pimp yourself. There aren't any takers.
+%ME% pimps %REFLEXIVE% to no avail.
+You pimp %TARGET%. It ain't easy!
+%ME% tries to pimp you around.
+%ME% tries to pimp %TARGET% around.
+#
+pinch
+You pinch yourself. Nope, not dreaming!
+%ME% pinches %REFLEXIVE%. Yup, I'm awake!
+You pinch %TARGET%.
+%ME% pinches you.
+%ME% pinches %TARGET%.
+#
+point
+You point to nowhere in particular.
+%ME% points to nowhere in particular.
+You point at %TARGET%.
+%ME% points at you.
+%ME% points at %TARGET%.
+#
+poke
+You poke yourself.
+%ME% pokes %REFLEXIVE%.
+You poke %TARGET% with a big stick.
+%ME% pokes you with a big stick.
+%ME% pokes %TARGET% with a big stick.
+#
+ponder
+You ponder your situation. Gotta lay off the booze.
+%ME% ponders %POSSESSIVE% situation.
+You ponder on %TARGET%'s words.
+%ME% ponders on your words.
+%ME% ponders on %TARGET%'s words.
+#
+pounce
+You wait until nobody's looking, then pounce!
+%ME% waits until nobody's looking, then pounces!
+You pounce on %TARGET% like a crazy kitten.
+%ME% pounces on you like a crazy kitten.
+%ME% pounces on %TARGET% like a crazy kitten.
+#
+pout
+You pout. Boo hoo.
+%ME% is pouting. Everybody point and laugh.
+You pout at %TARGET% sadly.
+%ME% pouts at you sadly.
+%ME% pouts at %TARGET% sadly.
+#
+prance
+You prance around like a pony.
+%ME% prances around like a pony.
+You prance in front of %TARGET%.
+%ME% prances in front of you.
+%ME% prances in front of %TARGET%.
+#
+preach
+You preach about the end of the world. Nobody listens.
+%ME% preaches about the end of the world. Nobody listens.
+You preach to %TARGET%.
+%ME% preaches to you.
+%ME% preaches to %TARGET%.
+#
+prostrate
+You prostrate yourself humbly.
+%ME% prostrates %REFLEXIVE% humbly.
+You prostrate yourself before %TARGET% humbly.
+%ME% prostrates %REFLEXIVE% before you humbly.
+%ME% prostrates %REFLEXIVE% before %TARGET% humbly.
+#
+puke
+You puke all over the new carpet.
+%ME% pukes all over the new carpet.
+You puke all over %TARGET%. It smells nasty.
+%ME% pukes all over you. It smells nasty.
+%ME% pukes all over %TARGET%. It smells nasty.
+#
+purr
+You purr like a fat kitten.
+%ME% purrs like a fat kitten.
+You purr for %TARGET%.
+%ME% purrs for you.
+%ME% purrs for %TARGET%.
+#
+raindance
+You dance around in a circle, trying to call up rain.
+%ME% dances around in a circle, trying to call up rain.
+You join in %TARGET%'s raindance.
+%ME% joins in your raindance.
+%ME% joins in %TARGET%'s raindance.
+#
+raspberry
+You blow a raspberry.
+%ME% blows a raspberry.
+You blow a raspberry at %TARGET%.
+%ME% blows a raspberry at you.
+%ME% blows a raspberry at %TARGET%.
+#
+riverdance
+You don't just dance. You Riverdance!
+%ME% doesn't just dance %SUBJECTIVE% Riverdances!
+You don't just dance with %TARGET%, you Riverdance!
+%ME% doesn't just dance with you, %SUBJECTIVE% Riverdances!
+%ME% doesn't just dance with %TARGET%, %SUBJECTIVE% Riverdances!
+#
+rofl
+You rofl like an AOLer. rofl rofl rofl.
+%ME% rofls like an AOLer. rofl rofl rofl.
+You rofl like an AOLer because of %TARGET%.
+%ME% rofls like an AOLer because of you.
+%ME% rofls like an AOLer because of %TARGET%.
+#
+roll
+You roll your eyes heavenward.
+%ME% rolls %POSSESSIVE% eyes heavenward.
+Your roll your eyes at %TARGET%.
+%ME% rolls %POSSESSIVE% eyes at you.
+%ME% rolls %POSSESSIVE% eyes at %TARGET%.
+#
+salute
+You whip out a snappy salute.
+%ME% whips out a snappy salute.
+You salute %TARGET% smartly.
+%ME% salutes you smartly.
+%ME% salutes %TARGET% smartly.
+#
+scoff
+You scoff derisively.
+%ME% scoffs derisively.
+You scoff at %TARGET% derisively.
+%ME% scoffs at you derisively.
+%ME% scoffs at %TARGET% derisively.
+#
+scold
+You scold yourself harshly.
+%ME% scolds %REFLEXIVE% harshly.
+You scold %TARGET% harshly.
+%ME% scolds you harshly.
+%ME% scolds %TARGET% harshly.
+#
+scowl
+You make a scowly face.
+%ME% makes a scowly face.
+You scowl darkly at %TARGET%.
+%ME% scowls at you darkly.
+%ME% scowls at %TARGET% darkly.
+#
+scratch
+You scratch yourself rudely.
+%ME% scratches %REFLEXIVE% rudely.
+You scratch %TARGET%.
+%ME% scratches you.
+%ME% scratches %TARGET%.
+#
+scream
+You scream like a banshee.
+%ME% screams like a banshee.
+You scream at %TARGET% like a banshee.
+%ME% screams at you like a banshee.
+%ME% screams at %TARGET% like a banshee.
+#
+shake
+You try to shake your own hand. And fail.
+%ME% tries to shake %POSSESSIVE% own hand. And fails.
+You take %TARGET%'s hand in a firm grip.
+%ME% shakes your hand with a firm grip.
+%ME% shakes %TARGET%'s hand in a firm grip.
+#
+shame
+You hang your head in shame.
+%ME% hangs %POSSESSIVE% head in shame.
+You gesture and say shame on %TARGET%
+%ME% makes a gesture and says "shame on you".
+%ME% makes a gesture and says "shame on %TARGET%".
+#
+shiver
+You shiver convulsively.
+%ME% shivers convulsively.
+You stand next to %TARGET% and shiver.
+%ME% stands next to you, shivering.
+%ME% stands next to %TARGET% and shivers.
+#
+shoo
+You shoo away some small, annoying creature.
+%ME% shoos away a small annoying creature.
+You shoo %TARGET% away.
+%ME% shoos you away.
+%ME% shoos %TARGET% away.
+#
+shrug
+You shrug your shoulders.
+%ME% shrugs %POSSESSIVE% shoulders.
+You shrug your shoulders in response to %TARGET%.
+%ME% shrugs %POSSESSIVE% shoulders in response to you.
+%ME% shrusgs %POSSESSIVE% shoulders in response to %TARGET%.
+#
+shudder
+You shudder at the thought.
+%ME% shudders at the thought.
+You shudder at %TARGET%.
+%ME% shudders at you.
+%ME% shudders at %TARGET%.
+#
+shun
+You feel shunned.
+%ME% feels shunned.
+You shun %TARGET% like an anwanted relative.
+%ME% shuns you like an unwanted relative.
+%ME% shuns %TARGET% like an unwanted relative.
+#
+sigh
+You sigh despondently.
+%ME% sighs despondently
+You sigh at %TARGET% despondently.
+%ME% sighs at you despondently.
+%ME% sighs at %TARGET% despondently.
+#
+sing
+You sing like nobody's listening.
+%ME% sings like there's nobody listening.
+You sing to %TARGET% enthusiastically.
+%ME% sings to you enthusiastically.
+%ME% sings to %TARGET% enthusiastically.
+#
+skip
+You skip around the room.
+%ME% skips around the room.
+You skip around %TARGET% lightly.
+%ME% skips around you lightly.
+%ME% skips around %TARGET% lightly.
+#
+slap
+You slap yourself silly.
+%ME% slaps %REFLEXIVE% silly.
+You slap %TARGET% upside the head.
+%ME% slaps you upside the head.
+%ME% slaps %TARGET% upside the head.
+#
+smile
+You smile.
+%ME% smiles.
+You smile at %TARGET%.
+%ME% smiles at you.
+%ME% smiles at %TARGET%.
+#
+smirk
+You put your best smirk on.
+%ME% puts %POSSESSIVE% best smirk on.
+You look at %TARGET% with a smirk.
+%ME% looks at you with a smirk.
+%ME% looks at %TARGET% with a smirk.
+#
+snap
+You snap your fingers.
+%ME% snaps %POSSESSIVE% fingers.
+You snap your fingers at %TARGET%.
+%ME% snaps %POSSESSIVE% fingers at you.
+%ME% snaps %POSSESSIVE% fingers at %TARGET%.
+#
+snarl
+You snarl evilly.
+%ME% snarls evilly.
+You snarl at %TARGET% evilly.
+%ME% snarls at you evilly.
+%ME% snarls at %TARGET% evilly.
+#
+sneer
+You sneer.
+%ME% sneers.
+You sneer at %TARGET%.
+%ME% sneers at you.
+%ME% sneers at %TARGET%.
+#
+sneeze
+You sneeze.
+%ME% sneezes.
+You sneeze on %TARGET%. Ewww.
+%ME% sneezes on you.
+%ME% sneezes on %TARGET%.
+#
+snicker
+You snicker about something privately.
+%ME% snickers about something privately.
+You snicker at %TARGET%.
+%ME% snickers at you.
+%ME% snickers at %TARGET%.
+#
+sniff
+You sniff the air.
+%ME% sniffs the air.
+You sniff %TARGET%.
+%ME% sniffs you.
+%ME% siffs %TARGET%.
+#
+snog
+You can't find anyone to snog.
+%ME% can't find anyone to snog.
+You snog %TARGET%. Get a room.
+%ME% snogs you and looks for a room.
+%ME% snogs %TARGET% and looks for a room.
+#
+snort
+You snort derisively.
+%ME% snorts derisively.
+You snort at %TARGET% derisively.
+%ME% snorts at you derisively.
+%ME% snorts at %TARGET% derisively.
+#
+snuggle
+You look for something to snuggle up to.
+%ME% looks for something to snuggle up to.
+You snuggle up to %TARGET%.
+%ME% snuggles up to you.
+%ME% snuggles up to %TARGET%.
+#
+spam
+You complain about the spam.
+%ME% complains about the spam.
+You complain to %TARGET% about the spam.
+%ME% complains to you about the spam.
+%ME% complains to %TARGET% about the spam.
+#
+spank
+You spank yourself naughtily.
+%ME% spanks %REFLEXIVE% naughtily.
+You spank %TARGET% on the behind.
+%ME% spanks you on the behind.
+%ME% spanks %TARGET% on the behind.
+#
+spin
+You spin around the room dizzily.
+%ME% spins around the room dizzily.
+You spin around %TARGET% dizzily.
+%ME% spins around you dizzily.
+%ME% spins around %TARGET% dizzily.
+#
+squat
+You squat down.
+%ME% squats down.
+You squat down next to %TARGET%.
+%ME% squats down next to you.
+%ME% squats down next to %TARGET%.
+#
+stagger
+You stagger around drunkenly.
+%ME% staggers around the room. Somebody had too much to drink...
+You stagger towards %TARGET% drunkenly.
+%ME% staggers towards you drunkenly.
+%ME% staggers towards %TARGET% drunkenly.
+#
+stalk
+You stalk around stealthily.
+%ME% stalks around stealthily.
+You stalk %TARGET% across the room.
+%ME% stalks you across the room.
+%ME% stalks %TARGET% across the room.
+#
+stare
+You stare into space.
+%ME% stares into space.
+You stare at %TARGET% blankly.
+%ME% stares at you blankly.
+%ME% stares at %TARGET% blankly.
+#
+stomp
+You stomp your feet.
+%ME% stomps %POSSESSIVE% feet.
+You stomp on %TARGET% uncaringly.
+%ME% stomps on you uncaringly.
+%ME% stomps on %TARGET% uncaringly.
+#
+stretch
+You slowly stretch your muscles.
+%ME% slowly stretches %POSSESSIVE% muscles.
+You stretch out next to %TARGET%.
+%ME% stretches out next to you.
+%ME% stretches out next to %TARGET%.
+#
+strip
+You strip off all your clothes.
+%ME% strips off all %POSSESSIVE% clothes.
+You strip off your clothes for %TARGET%.
+%ME% strips off %POSSESSIVE% clothes for you.
+%ME% strips off %POSSESSIVE% clothes for %TARGET%.
+#
+strut
+You strut around proudly.
+%ME% struts around proudly.
+You strut in front of %TARGET%.
+%ME% struts around in front of you.
+%ME% struts around in front of %TARGET%.
+#
+tackle
+You tackle yourself and go down in a mess.
+%ME% tackles %POSSESSIVE% and goes down in a mess.
+You tackle %TARGET%.
+%ME% tackles you.
+%ME% tackles %TARGET%.
+#
+tap
+You tap your foot impatiently.
+%ME% taps %POSSESSIVE% foot impatiently.
+You tap your foot, waiting for %TARGET%.
+%ME% taps %POSSESSIVE% foot, waiting for you.
+%ME% taps %POSSESSIVE% foot, waiting for %TARGET%.
+#
+thank
+You express your gratitude.
+%ME% expresses %POSSESSIVE% gratitude.
+You thank %TARGET%.
+%ME% thanks you.
+%ME% thanks %TARGET%.
+#
+tickle
+You tickle yourself. Teehee!
+%ME% tickles %REFLEXIVE%.
+You tickle %TARGET%.
+%ME% tickles you.
+%ME% tickles %TARGET%.
+#
+tongue
+You stick your tongue out as far as you can.
+%ME% sticks %POSSESSIVE% tongue out as far as %SUBJECTIVE% can.
+You stick your tongue out at %TARGET%.
+%ME% sticks %POSSESSIVE% tongue out at you.
+%ME% sticks %POSSESSIVE% tongue out at %TARGET.
+#
+torture
+You torture yourself unmercifully.
+%ME% tortures %REFLEXIVE% unmercifully.
+You torture %TARGET% unmercifully.
+%ME% tortures you unmercifully.
+%ME% tortures %TARGET% umercifully.
+#
+twiddle
+You twiddle your thumbs.
+%ME% twiddles %POSSESSIVE% thumbs.
+You twiddle your thumbs waiting for %TARGET%.
+%ME% twiddles %POSSESSIVE% thumbs waiting for you.
+%ME% twiddles %POSSESSIVE% thumbs waiting for %TARGET%.
+#
+twirl
+You twirl your skirts like a beautiful ballerina.
+%ME% twirls %POSSESSIVE% skirts like a beautiful ballerina.
+You twirl around with %TARGET%.
+%ME% twirls you around.
+%ME% twirls %TARGET% around.
+#
+twitch
+Your eye twitches in anger.
+%ME%'s eye twitches with anger.
+You twitch your eye at %TARGET%.
+%ME% twitches %POSSESSIVE% eye at you.
+%ME% twitches %POSSESSIVE% eye at %TARGET%.
+#
+wave
+You wave at nobody in particular.
+%ME% waves at nobody in particular.
+You wave at %TARGET%.
+%ME% waves at you.
+%ME% waves at %TARGET%.
+#
+wedgie
+You give yourself a wedgie. That's gonna leave a mark!
+%ME% gives %REFLEXIVE% a wedgie. That's gonna leave a mark!
+You give %TARGET% a wedgie. Ouch!
+%ME% gives you a wedgie. Ouch!
+%ME% gives %TARGET% a wedgie. Ouch!
+#
+whimper
+You whimper like a sad little doggie.
+%ME% whimpers like a sad little doggie.
+You whimper at %TARGET% pitifully.
+%ME% whimpers at you pitifully.
+%ME% whimpers at %TARGET% pitifully.
+#
+whine
+You whine incessantly. It's annoying.
+%ME% whines. Again.
+You whine to %TARGET%.
+%ME% whines at you.
+%ME% whines at %TARGET%.
+#
+whistle
+You whistle a catchy tune.
+%ME% whistles a catchy tune.
+You whistle at %TARGET%.
+%ME% whistles at you.
+%ME% whistles at %TARGET%.
+#
+wiggle
+You wiggle what your mama gave you.
+%ME% wiggles what %POSSESSIVE% mama gave %OBJECTIVE%.
+You wiggle your assets at %TARGET%.
+%ME% wiggles %POSSESSIVE% assets at you.
+%ME% wiggles %POSSESSIVE% assets at %TARGET%.
+#
+wince
+You wince uncomfortably.
+%ME% winces uncomfortably.
+You wince at %TARGET% uncomfortably.
+%ME% winces at you uncomfortably.
+%ME% winces at %TARGET% uncomfortably.
+#
+wink
+You wink, knowingly.
+%ME% winks knowingly.
+You wink at %TARGET% knowingly.
+%ME% winks at you knowingly.
+%ME% winks at %TARGET% knowingly.
+#
+worship
+You prostrate yourself worshipfully.
+%ME% prostrates %REFLEXIVE% worshipfully.
+You worship %TARGET% humbly.
+%ME% worships you humbly.
+%ME% worships %TARGET% humbly.
+#
+wrestle
+You wrestle your shadow. And lose.
+%ME% wrestles %POSSESSIVE% shadow. And loses.
+You wrestle %TARGET% to the ground.
+%ME% wrestles you to the ground.
+%ME% wrestles %TARGET% to the ground.
+#
+yawn
+You yawn widely.
+%ME% yawns widely.
+You yawn at %TARGET%.
+%ME% yawns at you.
+%ME% yawns at %TARGET%.

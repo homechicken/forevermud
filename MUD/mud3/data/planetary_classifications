@@ -1,0 +1,177 @@
+Planetary Classification System
+
+Evolution of Planets
+A->C
+E->F->G->[KLMNOP]
+
+Stellar Zones
+Hot  BDHQY
+Bio  ACDEFGHKLMNOPQY
+Cold ACDHIJQSTY
+None R
+
+Courtesy Jet Propulsion Laboratory. Copyright (c) California Institute of Technology, Pasadena, CA. All rights reserved.
+
+CLASS A - GEO-THERMAL
+Age: 	0-2 billion years 	
+Diameter: 	1,000 - 10,000 km
+Location: 	Ecosphere / Cold Zone
+Surface: 	Partially molten
+Atmosphere: 	Primarily hydrogen compounds
+Evolution: 	Cools to become Class-C
+Life-Forms: 	None
+
+CLASS B - GEO-MORTEUS
+Age: 	0-10 billion years 	
+Diameter: 	1,000 - 10,000 km
+Location: 	Hot Zone
+Surface: 	Partially molten, high surface temperature.
+Atmosphere: 	Extremely tenuous, few chemically active gases.
+Life-Forms 	None
+
+CLASS C - GEO-INACTIVE
+Age: 	2-10 billion years 	
+Diameter: 	1,000 - 10,000 km
+Location: 	Ecosphere / Cold Zone
+Surface: 	Low surface temperature
+Atmosphere: 	Frozen
+Life-Forms: 	None
+
+CLASS D -ASTEROID / MOON
+Age: 	2-10 billion years 	
+Diameter: 	100 - 1,000 km
+Location: 	Hot Zone / Ecosphere / Cold Zone; found primarily in orbit of larger planets or in asteroid fields
+Surface: 	Barren and cratered
+Atmosphere: 	None or very tenuous
+Life-Forms: 	None
+
+CLASS E - GEO-PLASTIC
+Age: 	0-2 billion years 	
+Diameter: 	10,000 - 15,000 km
+Location: 	Ecosphere
+Surface: 	Molten, high surface temperature
+Atmosphere: 	Hydrogen compunds and reactive gases
+Evolution: 	Cools to become Class-F
+Life-Forms: 	Carbon-cycle
+
+CLASS F - GEO-METALLIC
+Age: 	1-3 billion years 	
+Diameter: 	10,000 - 15,000 km
+Location: 	Ecosphere
+Surface: 	Volcanic eruptions due to molten core
+Atmosphere: 	Hydrogen compounds
+Evolution: 	Cools to become Class-G
+Life-Forms: 	Silicon-based
+
+CLASS G - GEO-CRYSTALLINE
+Age: 	3-4 billion years 	
+Diameter: 	10,000 - 15,000 km
+Location: 	Ecosphere
+Surface: 	Still crystallizing
+Atmosphere: 	Carbon dioxide, some toxic gases
+Evolution: 	Cools to become Class-K, L, M, N, O, or P
+Life-Forms: 	Primitive single-celled organisms
+
+CLASS H - DESERT
+Age: 	4-10 billions years 	
+Diameter: 	8,000 - 15,000 km
+Location: 	Hot Zone / Ecosphere / Cold Zone
+Surface: 	Hot and arid, little or no surface water
+Atmosphere: 	May contain heavy gases and metal vapors
+Life-Forms: 	Drought- and radiation-resistant plants, animal life 
+
+CLASS I - GAS SUPERGIANT
+Age: 	2-10 billion years 	
+Diameter: 	140,000 - 10 million km
+Location: 	Cold Zone
+Surface: 	Tenuous, comprised of gaseous hydrogen and hydrogen compounds; radiates heat
+Atmosphere: 	Zones vary in terperature, pressure and composition; water vapor may be present
+Life-Forms: 	Unknown
+
+CLASS J - GAS GIANT
+Age: 	2-10 billion years 	
+Diameter: 	50,000 - 140,000 km
+Location: 	Cold Zone
+Surface: 	Tenuous, comprised of gaseous hydrogen and hydrogen compounds; radiates some heat
+Atmosphere: 	Zones vary in temperature, pressure and composition
+Life-Forms: 	Hydrocarbon-based (Jovian)
+
+CLASS K - ADAPTABLE
+Age: 	4-10 billion years 	
+Diameter: 	5,000 - 10,000 km
+Location: 	Ecosphere
+Surface: 	Barren, little of no surface water
+Atmosphere: 	Thin, mostly carbon dioxide
+Life-Forms: 	Primitive single-celled organisms; adaptable for humanoid colonization through the use of pressure domes
+
+CLASS L - MARGINAL
+Age: 	4-10 billion years 	
+Diameter: 	10,000 - 15,000 km
+Location: 	Ecosphere
+Surface: 	Rocky and barren, little surface water
+Atmosphere: 	Oxygen/argon, high concentration of carbon dioxide
+Life-Forms: 	Limited to plant life; suitable for humanoid colonization
+
+CLASS M - TERRESTRIAL
+Age: 	3-10 billion years 	
+Diameter: 	10,000 - 15,000 km
+Location: 	Ecosphere
+Surface: 	Surface water abundant; if water or ice covers more than 80% of surface, planet is considered Class-O or Class-P
+Atmosphere: 	Nitrogen, oxygen, trace elements
+Life-Forms 	Extensive vegetation, animal life, humanoids
+
+CLASS N - REDUCING
+Age: 	3-10 billions years 	
+Diameter: 	10,000 - 15,000 km
+Location: 	Ecosphere
+Surface: 	High surface temperature due to greenhouse effect; water exists only as vapor
+Atmosphere: 	Extremely dense, carbon dioxide and sulfides
+Life-Forms: 	Unknown
+
+CLASS O - PELAGIC
+Age: 	3-10 billion years 	
+Diameter: 	10,000 - 15,000 km
+Location: 	Ecosphere
+Surface: 	Liquid water covers 80% or more of surface area
+Atmosphere: 	Nitrogen, oxygen, trace elements
+Life-Forms: 	Aquatic vegetation, animal life, humanoids
+
+CLASS P - GLACIATED
+Age: 	3-10 billion years 	
+Diameter: 	10,000 - 15,000 km
+Location: 	Ecosphere
+Surface: 	Water ice covers 80% or more of surface area
+Atmosphere: 	Nitrogen, oxygen, trace elements
+Life-Forms: 	Hardy vegetation, animal life, humanoids
+
+CLASS Q - VARIABLE
+Age: 	2-10 billion years 	
+Diameter: 	4,000 - 15,000 km
+Location: 	Hot Zone / Ecosphere / Cold Zone
+Surface: 	Ranges from molten to water and/or carbon dioxide ice, due to eccentric orbit or variable output of star
+Atmosphere: 	Ranges from tenuous to very dense
+
+CLASS R - ROGUE
+Age: 	2-10 billion years 	
+Diameter: 	4,000 - 15,000 km
+Location: 	Interstellar space, cometary halos
+Surface: 	May be temperate due to geothermal venting
+Atmosphere: 	Primarily volcanic outgassing
+Life-Forms: 	Non-photosynthetic plants, animal life
+
+CLASS S/T - NEAR STAR
+Age: 	2-10 billion years 	
+Diameter: 	10-50 million km (Class-S)
+50-120 million km (Class-T)
+Location: 	Cold Zone
+Surface: 	Tenuous, composed of gaseous hydrogen and hydrogen compounds; radiates considerable heat
+Atmosphere: 	Zones vary in termperature, pressure and composition; water vapor may be present
+Life-Forms: 	Unknown
+
+CLASS Y - DEMON
+Age: 	2-10 billion years 	
+Diameter: 	10,000 - 50,000 km
+Location: 	Hot Zone / Ecosphere / Cold Zone
+Surface: 	Temperatures can exceed 500°K
+Atmosphere: 	Turbulent, saturated with toxic chemicals and thermionic radiation
+Life-Forms: 	Mimetic

@@ -1,0 +1,108 @@
+PUT command
+There is no PUT command. It should support the following grammar:
+1 put item down (drop item)
+2a put 2 items down
+2b put item 2 down
+2c put 3 items 2 down
+3 put item in container
+4a put 20 items in container
+4b put item in container 2
+5a put 20 items in container 2
+5b put item 2 in container 3
+6 put 20 items 3 in container 2
+
+Should also support `put all item in container` et al
+
+***
+Close exit door on lock?
+
+This may be an interesting feature: allow door to be locked while open. A locked, open door cannot be closed (eg latch won't operate).
+
+Alternatively, we could automatically close the door when the lock() is called.
+
+***
+Read command disambiguation
+
+Change the Read::process() function to support `read book 2` and `read book 2 2` (read the second book, read the second page of the second book)
+
+***
+LOOK only looks at room
+
+What steps will reproduce the problem?
+1. 'look <item in my inventory>'
+2. Item can't exist in room
+
+What is the expected output? What do you see instead?
+Should see a description of the object I asked about, but instead get an "I don't know anything about that" message.
+
+Look should either allow for "look at my <item>" or just check for player inventory as well as room inventory.
+
+Perhaps:
+look at book in inventory
+look at book in room
+
+***
+YAML emitter is in a bad state on program shutdown
+
+What steps will reproduce the problem?
+1. Run command 'shutdown'
+
+The following error appears:
+RuntimeConfig::save(): YAML Emitter is in a bad state: expected key token
+
+***
+LOOK shows yourself if more than 1 object present
+
+What steps will reproduce the problem?
+1. Enter a room with more than 1 object in it (you)
+2. look
+3. You see yourself
+
+What is the expected output? What do you see instead?
+just the object that is present, not you
+
+***
+Convert Log to singleton
+
+The logging mechanism should be a singleton.
+
+***
+Tombstones
+
+At some point, a graveyard ala the old Ultima games would be cool, and I must have one with the inscription:
+
+
+Inscribed on a modestly austere tombstone here is the name, "Richard the arch-wizard". 
+
+***
+item.cpp check
+
+Around line 94. mMessage is set in changeState() but it's never sent. Possible that it's done later, but it's best to check and leave a comment there if it sends automatically somewhere else.
+
+Aug 18, 2011 Delete comment Project Member #1 homechicken
+item.cpp doesn't seem to be hooked up to anything yet. It also appears to require the caller to call getMessages().
+
+***
+Write fight system code
+
+Use separate threads for each fight.
+
+Aggressor group, defender group
+
+Keep stats for things like fastest fight, longest, most damage, longest odds, etc
+
+***
+Overlay maps
+
+Implement overlay maps for world zone.
+
+* Terrain
+* Elevation
+* Ground cover
+* Roads, trails, towns
+* Rivers, streams, lakes, ponds
+* Minerals (with multiple depths?)
+* Political boundaries
+* Weather
+* Temperature, climate
+* Rainfall

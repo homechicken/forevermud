@@ -1,0 +1,8 @@
+---
+Instructions:
+  - Any offline modifications you make to the banned list will be preserved,
+  - but any additional comments will be deleted for your convenience.
+  - "Entries are IP address, ': ', and a reason. For example:"
+  - "10.0.0.1: Banned for being stupid"
+BannedIPs:
+  10.0.0.2: Banned for abusive language
